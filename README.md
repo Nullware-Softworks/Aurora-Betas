@@ -1,2 +1,3 @@
-Download BTKUILib and place it in mods.
-Then download the AuroraClientML.dll file and place it in mods.
+Download AuroraClientML and the Dependencies folder.
+Put them both in mods.
+And enjoy!
