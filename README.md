@@ -1,3 +1,3 @@
-Download AuroraClientML and the Dependencies folder.
+Download AuroraClientML and the Dependencies folder.  
 Put them both in mods.
 And enjoy!
